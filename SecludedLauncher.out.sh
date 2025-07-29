@@ -1,0 +1,1 @@
+chmod -R 777 "$PWD" && LD_LIBRARY_PATH=. ./SecludedLauncher.out
